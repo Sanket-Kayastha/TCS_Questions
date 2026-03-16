@@ -11,8 +11,10 @@ Squares or rectangles cut should be equal size.
 
 Example: 
 Input: 
+
 4 → Value of N(No. of cuts) 
 Output: 
+
 9 → maximum number of equal squares or rectangles 
 
 QUestion 2.  A family is about to break their piggy bank to use the money for different purposes. The piggy bank here 
