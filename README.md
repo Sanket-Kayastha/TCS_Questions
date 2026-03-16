@@ -10,9 +10,11 @@ allowed.
 Squares or rectangles cut should be equal size.   
 
 Example: 
+
 Input: 
 
 4 → Value of N(No. of cuts) 
+
 Output: 
 
 9 → maximum number of equal squares or rectangles 
