@@ -24,3 +24,15 @@ represents an array (arr[]) consisting of N coins. The family has to split the c
 stack (sub-array) of coins such that the sum of the difference between the maximum value and the minimum 
 value of the coins for all the stacks (sub-arrays) is maximum. 
 Note: Each value of the array can be used only once that is only in one subarray.
+
+Example:
+
+Input:
+
+5                 
+→ Value of N 
+{1,2,1,0,5} → arr[], elements from arr[0] to arr [N-1], 
+where each elements is separated by a new line. 
+
+Output: 
+6
