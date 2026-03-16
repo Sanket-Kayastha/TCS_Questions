@@ -7,7 +7,13 @@ Note:
 The square carpet can be cut only using horizontal or vertical slits. 
 Cuttings are done on a single carpet which should be rolled out completely i.e. no folding or stacking is 
 allowed. 
-Squares or rectangles cut should be equal size.    
+Squares or rectangles cut should be equal size.   
+
+Example: 
+Input: 
+4 → Value of N(No. of cuts) 
+Output: 
+9 → maximum number of equal squares or rectangles 
 
 QUestion 2.  A family is about to break their piggy bank to use the money for different purposes. The piggy bank here 
 represents an array (arr[]) consisting of N coins. The family has to split the coins of piggy bank into smaller 
