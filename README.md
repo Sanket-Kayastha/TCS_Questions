@@ -9,4 +9,8 @@ Cuttings are done on a single carpet which should be rolled out completely i.e. 
 allowed. 
 Squares or rectangles cut should be equal size.    
 
-QUestion 2. 
+QUestion 2.  A family is about to break their piggy bank to use the money for different purposes. The piggy bank here 
+represents an array (arr[]) consisting of N coins. The family has to split the coins of piggy bank into smaller 
+stack (sub-array) of coins such that the sum of the difference between the maximum value and the minimum 
+value of the coins for all the stacks (sub-arrays) is maximum. 
+Note: Each value of the array can be used only once that is only in one subarray.
